@@ -1,4 +1,4 @@
-package com.example.class01servlet;
+package com.example.class02request;
 
 import java.io.*;
 import jakarta.servlet.http.*;
