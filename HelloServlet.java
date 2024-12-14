@@ -1,4 +1,4 @@
-package com.example.class02request;
+package com.example.class05ajaxaxios;
 
 import java.io.*;
 import jakarta.servlet.http.*;
